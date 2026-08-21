@@ -175,5 +175,7 @@ All three participant nodes should initially connect to **one common synchronize
    Participant     Participant    Participant
 ```
 
-## Future Extension: Multiple Synchronizers
+## Future Extensions (TODO): 
+* Multiple Synchronizers
+* Multi-hosted parties
 ????
